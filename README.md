@@ -3,6 +3,8 @@
 **Created:** August 2, 2026  
 **Last Updated:** August 6, 2026
 
+🔗 **Live Demo:** [Click Here 👆](https://counter-app-pi-roan.vercel.app/)
+
 A clean, minimal counter application built with **HTML**, **Tailwind CSS**, and **vanilla JavaScript**. The UI features a soft, modern aesthetic with rounded cards, subtle shadows, and a soothing blue color palette.
 
 ---
