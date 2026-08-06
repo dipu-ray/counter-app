@@ -75,11 +75,7 @@ counter-app/
 
 <div align="center">
 
-### ✨ Built one click at a time
-
 _"Every great app starts with someone brave enough to click `+` first."_
-
-Made with 💙 and a little too much Tailwind
 
 ⭐ **If this counter counted anything for you, give the repo a star!** ⭐
 
